@@ -7,7 +7,7 @@ a python data analysis project showing the KPI'S and segemented audience analysi
 This notebook analyzes sales data from Diwali, focusing on customer demographics, purchasing behavior, and sales trends. It uses Python libraries to uncover insights and visualize the data.
 
 ## Data Sources
-The source of the sales data is not explicitly mentioned in the notebook. Ensure that the required dataset is available and properly linked when running the analysis.
+Data source is available with the project file 
 
 ## Analysis Steps
 1. Data Preprocessing:
